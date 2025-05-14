@@ -9,6 +9,7 @@ https://en.wikipedia.org/wiki/Intel_Arc
 - [We Downgraded our Computers – Switching to Intel Arc Pt. 1](https://youtu.be/5nI0AI8k8cU)
 - [Linus Ranting About Intel for 30 minutes](https://youtu.be/t-JC5PluSIU)
 - [THE INTEL ARC B580 IS ACTUALLY GREAT & AFFORDABLE](https://youtu.be/dboPZUcTAW4)
+- [The Intel Arc B580 isn’t for budget gamers](https://youtu.be/ovH5pZ-a0l4)
 
 ## Analysis:
 - [Intel's B580 surprised EVERYONE.. could there be MORE?](https://youtu.be/rBgB1k93TJM)
